@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.exe
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\bin\Debug\netcoreapp3.1\InstragramAgeValidation.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\InstragramAgeValidation\obj\Debug\netcoreapp3.1\InstragramAgeValidation.genruntimeconfig.cache
